@@ -5,7 +5,7 @@ It’s a practice app to learn Python basics and get familiar with GitHub workfl
 
 ---
 
-## ⚙️ How to run
+## How to run
 1. Clone the repo:
    ```
    git clone https://github.com/lynagd/PyShop.git
@@ -16,6 +16,6 @@ It’s a practice app to learn Python basics and get familiar with GitHub workfl
 
 ---
 
-Purpose
+## Purpose
 This repo is for learning and experimenting.
 It’s not a production-ready project — just a way to practice Python and GitHub.
